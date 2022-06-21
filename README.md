@@ -15,9 +15,10 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### 'npm run dev'
-Launching the Backend and Fronted at a same time.
-Backend : PORT : 5000
-Frontend : PORT : 3000
+
+Launching the Backend and Fronted at a same time.\
+Backend : PORT : 5000\
+Frontend : PORT : 3000\
 
 ### `npm test`
 
